@@ -5,17 +5,10 @@ Bonza Lorenzo , 760667 , VA
 Piloni Luca , 762374 , VA
 */
 
-package src;
+package cinemax.model;
 import java.io.Serializable;
 
-/**
- * Rappresenta i ruoli disponibili nel sistema CineMax.
- * Definisce le tipologie di account e i relativi permessi di accesso 
- * ai menu e alle funzionalità dell'applicazione.
- */
-enum Ruolo {
-    CLIENTE, PROIEZIONISTA, BIGLIETTAIO
-}
+
 
 /**
  * Rappresenta un utente registrato nel sistema CineMax.

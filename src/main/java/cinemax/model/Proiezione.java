@@ -5,7 +5,7 @@ Bonza Lorenzo , 760667 , VA
 Piloni Luca , 762374 , VA
 */
 
-package src;
+package cinemax.model;
 import java.io.Serializable;
 
 /**
